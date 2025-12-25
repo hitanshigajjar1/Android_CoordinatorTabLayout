@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CoordinatorTabLayout"
 include(":app")
-include(":coordinator_tab_layout")
+include(":coordinator_tablayout")
