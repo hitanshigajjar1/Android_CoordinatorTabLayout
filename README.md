@@ -61,7 +61,7 @@ repositories {
 
 ```gradle
 dependencies {
-    implementation("com.github.YourUsername:Android_CoordinatorTabLayout:1.0.0")
+	        implementation("com.github.Excelsior-Technologies-Community:Android_Coordinator_TabLayout:1.0.0")
 }
 ```
 
