@@ -34,7 +34,7 @@ class SampleFragment : Fragment() {
         // Generate sample content list exactly like reference image
         val content = StringBuilder()
         for (i in 'A'..'Z') {
-            content.append("$tabName$i\n\n")
+            content.append("$tabName $i\n\n")
         }
 
         textView.text = content.toString().trim()
